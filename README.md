@@ -1,3 +1,1 @@
-
-OmniCX
 OmniCX AI is a next-generation, AI-powered Customer Experience (CX) management platform designed for modern enterprise support teams. It transforms raw customer feedback into actionable intelligence using advanced Large Language Models.
